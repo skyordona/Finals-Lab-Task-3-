@@ -1,4 +1,4 @@
-# [Finals Lab Task 3 - Table Manipulation](https://github.com/user-attachments/files/19718240/Finals.Lab.Task.3.-.Ordona.docx)
+# [Finals Lab Task 3 - Table Manipulation](https://github.com/user-attachments/files/19718544/Finals.Lab.Task.3.-.Ordona.docx)
 
 # Step by Step Process:
 1. **Create the Table**  
@@ -38,7 +38,7 @@
 
 # Table Structure
 - ![Image](https://github.com/user-attachments/assets/7b7ab675-46b7-41ab-88ae-08debb828a97)
-- ![Image](https://github.com/user-attachments/assets/650858c0-ddac-4d04-be93-7907c273232f)
+- ![Image](https://github.com/user-attachments/assets/20712f94-ee0e-4f1b-9304-c61f4e40c2a6)
 
 # ER Diagram
 - ![Image](https://github.com/user-attachments/assets/9fda4b44-bd85-4c3a-b1c9-2cfeb7fbfd63)
